@@ -1,0 +1,11 @@
+Employees
+//name;lastname;username;password;personnel id;birthday;income;leave_hour;over_time;is_boss;
+3
+alireza;reisi;alireza;13813445;100;1/1/1;11920000.000000;2.000000;12.000000;1;
+amir;bahrami;ikami;123654789;101;2022/6/26;5240000.000000;6.000000;2.000000;0;
+amin;rezaii;amin;12365478;102;2022/6/29;6000000.000000;129245352680635294095956246528.000000;0.000000;0;
+Customer
+//name;lastname;username;password;id;birthday;number_of_accounts;account_number[1];blance;opening_date;is_active;account_number[2];...
+2
+erfan;reisi;erfan;12345678;3410908579;2022/6/26;2;1;601000;2022/6/26;1;2;10000000;2022/6/26;1;
+sahar;reisi;sahar;123654789;3410908580;2022/6/26;1;3;50000;2022/6/26;1;
